@@ -1,0 +1,103 @@
+/*
+
+    Body and Headers
+
+*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    color: rgb(99, 99, 99);
+}
+
+
+/*
+
+    Navigation
+
+*/
+
+.nav-wrapper{
+
+    background-color: #14ddb2;
+
+}
+
+/*
+
+    Pages components
+
+*/
+
+.panel-col{
+    margin: 0 auto;
+    float: none !important;
+}
+
+.panel-title{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: rgb(168, 168, 168);
+}
+
+.btn{
+    width: 100%;
+    background-color: #65e7cf;
+}
+
+.card-panel{
+    text-align: center;
+}
+
+.bounces{
+    padding-top: 30px;
+    display: flex;
+}
+
+.bounces-col{
+    float: none !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.table-container{
+    
+    width: 100%;
+    padding-bottom: 50px;
+
+}
+
+select{
+    display: block !important;
+}
+
+/*
+
+    Table
+
+*/
+
+
+
+table{
+    table-layout: fixed;
+}
+
+
+td{
+    word-wrap: break-word;
+}
+
+.table-row{
+    width: 100%;
+    padding: 40px 40px;
+}
+
+
+.message-cell{
+    width: 40px;
+}

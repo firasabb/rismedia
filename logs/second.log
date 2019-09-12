@@ -1,0 +1,33 @@
+Feb  8 05:09:29 737410-MAILVM postfix/smtp[25594]: 954DE1AAF31: to=<alpharetta_homes@me.com>, relay=mx3.mail.icloud.com[17.142.163.12]:25, delay=1.8, delays=0.09/0/0.17/1.5, dsn=5.7.1, status=bounced (host mx3.mail.icloud.com[17.142.163.12] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:09:46 737410-MAILVM postfix/smtp[25097]: 13E371AAF81: to=<amanda.ives@me.com>, relay=mx1.mail.icloud.com[17.178.102.82]:25, delay=1.5, delays=0.09/0/0.19/1.2, dsn=5.7.1, status=bounced (host mx1.mail.icloud.com[17.178.102.82] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:09:50 737410-MAILVM postfix/smtp[28219]: EAB601AB0EF: to=<amanda@watermanrealty.com>, relay=watermanrealty.com.mf.canit.ca[198.41.29.202]:25, delay=1.7, delays=0.09/0/0.42/1.2, dsn=5.7.1, status=bounced (host watermanrealty.com.mf.canit.ca[198.41.29.202] said: 554 5.7.1 Message rejected because of unacceptable content.  For help, please quote incident ID 0aV8b9NJ9. (in reply to end of DATA command))
+
+Feb  8 05:09:53 737410-MAILVM postfix/smtp[27317]: 270A01AAFD5: to=<amandavstepp@mac.com>, relay=mx6.mail.icloud.com[17.178.97.79]:25, delay=1.7, delays=0.09/0/0.13/1.4, dsn=5.7.1, status=bounced (host mx6.mail.icloud.com[17.178.97.79] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:10:04 737410-MAILVM postfix/smtp[28221]: C18FC1AB238: to=<abepena68@excite.com>, relay=mail-in-excite.roc2.bluetie.com[208.89.132.27]:25, delay=299, delays=299/0/0.06/0.04, dsn=4.1.1, status=deferred (host mail-in-excite.roc2.bluetie.com[208.89.132.27] said: 452 4.1.1 <abepena68@excite.com> Account temporarily unavailable. Try again later (in reply to RCPT TO command))
+
+Feb  8 05:09:29 737410-MAILVM postfix/smtp[25594]: 954DE1AAF31: to=<alpharetta_homes@me.com>, relay=mx3.mail.icloud.com[17.142.163.12]:25, delay=1.8, delays=0.09/0/0.17/1.5, dsn=5.7.1, status=bounced (host mx3.mail.icloud.com[17.142.163.12] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:09:46 737410-MAILVM postfix/smtp[25097]: 13E371AAF81: to=<amanda.ives@me.com>, relay=mx1.mail.icloud.com[17.178.102.82]:25, delay=1.5, delays=0.09/0/0.19/1.2, dsn=5.7.1, status=bounced (host mx1.mail.icloud.com[17.178.102.82] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:09:50 737410-MAILVM postfix/smtp[28219]: EAB601AB0EF: to=<amanda@watermanrealty.com>, relay=watermanrealty.com.mf.canit.ca[198.41.29.202]:25, delay=1.7, delays=0.09/0/0.42/1.2, dsn=5.7.1, status=bounced (host watermanrealty.com.mf.canit.ca[198.41.29.202] said: 554 5.7.1 Message rejected because of unacceptable content.  For help, please quote incident ID 0aV8b9NJ9. (in reply to end of DATA command))
+
+Feb  8 05:09:53 737410-MAILVM postfix/smtp[27317]: 270A01AAFD5: to=<amandavstepp@mac.com>, relay=mx6.mail.icloud.com[17.178.97.79]:25, delay=1.7, delays=0.09/0/0.13/1.4, dsn=5.7.1, status=bounced (host mx6.mail.icloud.com[17.178.97.79] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:10:04 737410-MAILVM postfix/smtp[28221]: C18FC1AB238: to=<abepena68@excite.com>, relay=mail-in-excite.roc2.bluetie.com[208.89.132.27]:25, delay=299, delays=299/0/0.06/0.04, dsn=4.1.1, status=deferred (host mail-in-excite.roc2.bluetie.com[208.89.132.27] said: 452 4.1.1 <abepena68@excite.com> Account temporarily unavailable. Try again later (in reply to RCPT TO command))
+
+
+
+
+
+Feb  8 05:09:29 737410-MAILVM postfix/smtp[25594]: 954DE1AAF31: to=<alpharetta_homes@me.com>, relay=mx3.mail.icloud.com[17.142.163.12]:25, delay=1.8, delays=0.09/0/0.17/1.5, dsn=5.7.1, status=bounced (host mx3.mail.icloud.com[17.142.163.12] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:09:46 737410-MAILVM postfix/smtp[25097]: 13E371AAF81: to=<amanda.ives@me.com>, relay=mx1.mail.icloud.com[17.178.102.82]:25, delay=1.5, delays=0.09/0/0.19/1.2, dsn=5.7.1, status=bounced (host mx1.mail.icloud.com[17.178.102.82] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:09:50 737410-MAILVM postfix/smtp[28219]: EAB601AB0EF: to=<amanda@watermanrealty.com>, relay=watermanrealty.com.mf.canit.ca[198.41.29.202]:25, delay=1.7, delays=0.09/0/0.42/1.2, dsn=5.7.1, status=bounced (host watermanrealty.com.mf.canit.ca[198.41.29.202] said: 554 5.7.1 Message rejected because of unacceptable content.  For help, please quote incident ID 0aV8b9NJ9. (in reply to end of DATA command))
+
+Feb  8 05:09:53 737410-MAILVM postfix/smtp[27317]: 270A01AAFD5: to=<amandavstepp@mac.com>, relay=mx6.mail.icloud.com[17.178.97.79]:25, delay=1.7, delays=0.09/0/0.13/1.4, dsn=5.7.1, status=bounced (host mx6.mail.icloud.com[17.178.97.79] said: 550 5.7.1 Message rejected due to local policy. Please visit https://support.apple.com/en-us/HT204137 (in reply to end of DATA command))
+
+Feb  8 05:10:04 737410-MAILVM postfix/smtp[28221]: C18FC1AB238: to=<abepena68@excite.com>, relay=mail-in-excite.roc2.bluetie.com[208.89.132.27]:25, delay=299, delays=299/0/0.06/0.04, dsn=4.1.1, status=deferred (host mail-in-excite.roc2.bluetie.com[208.89.132.27] said: 452 4.1.1 <abepena68@excite.com> Account temporarily unavailable. Try again later (in reply to RCPT TO command))
